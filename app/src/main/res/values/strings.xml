@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Tournament</string>
+    <string name="player">Player</string>
+
 </resources>
