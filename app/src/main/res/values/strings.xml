@@ -1,5 +1,12 @@
 <resources>
     <string name="app_name">Tournament</string>
     <string name="player">Player</string>
+    <string name="play_round">Play Round</string>
+    <string name="type_player_count">Type player count</string>
+    <string name="configure">Configure</string>
+    <string name="type_player_name">Type player name</string>
+    <string name="round">Round</string>
+    <string name="integer_error">Please enter an integer of Power of 2</string>
+    <string name="winner">Winner🏆\n</string>
 
 </resources>
